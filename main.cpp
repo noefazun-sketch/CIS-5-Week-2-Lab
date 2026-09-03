@@ -1,14 +1,14 @@
 #include <iostream>
 
-// Lab 2 — Your Name
+// Lab 2 — Noe zuniga
 // CIS 5 Week 02 · Program structure
 
 int main() {
-  // TODO: replace TODOs with YOUR labeled lines (5–6 total)
-  std::cout << "Name: TODO\n";
-  std::cout << "Interest: TODO\n";
-  std::cout << "CIS 5 goal: TODO\n";
-  std::cout << "Tool path: TODO\n";
-  std::cout << "Fun fact: TODO\n";
+ 
+  std::cout << "Name: Noe Zuniga\n";
+  std::cout << "Interest: I like watching football\n";
+  std::cout << "CIS 5 goal: I would ike to run programs efficiently. \n";
+  std::cout << "Tool path: GitHub Codespaces\n";
+  std::cout << "Fun fact: I can bench press 265 pounds\n";
   return 0;
 }
